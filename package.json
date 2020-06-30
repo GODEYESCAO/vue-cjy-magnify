@@ -1,0 +1,18 @@
+{
+  "name": "vue-cjy-magnify",
+  "version": "1.0.8",
+  "description": "vue magnify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "magnify",
+    "放大镜",
+    "vue放大镜",
+    "好用的放大镜"
+  ],
+  "author": "cjy",
+  "license": "ISC"
+}
